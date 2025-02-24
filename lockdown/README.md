@@ -1,0 +1,13 @@
+# Lockdown
+
+## Author
+
+hm-hexens
+
+## Description
+
+“The last audit told us we didn't have enough reentrancy locks, so we put them everywhere. We're safe now, right?”
+
+Goal: Drain the Marketplace contract of all CUSDC and as much USDC as you can.
+
+nc 165.227.157.127 1337
